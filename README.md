@@ -1,4 +1,4 @@
-# Investigations of differential gene expression in <em>Chlamydomonas reinhardtii</em> to UV-B stress
+# Investigating differential gene expression in <em>Chlamydomonas reinhardtii</em> to UV-B stress
 
 **Authors: Bea Liston, Pardis Shirkan, James Lo, Joshua Luong, Uzak Terzioglu, Nicole Robinson**
 
