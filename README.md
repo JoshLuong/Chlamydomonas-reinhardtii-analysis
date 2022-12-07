@@ -1,4 +1,4 @@
-# Analyzing Chlamydomonas reinhardtii’s stress response: Will Chlamydomonas reinhardtii experience effects similar gene expression to other higher order organisms 
+# Investigations of differential gene expression in <em>Chlamydomonas reinhardtii</em> to UV-B stress
 
 **Authors: Bea Liston, Pardis Shirkan, James Lo, Joshua Luong, Uzak Terzioglu, Nicole Robinson**
 
